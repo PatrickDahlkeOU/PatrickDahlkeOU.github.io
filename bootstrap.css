@@ -5285,6 +5285,7 @@ a.thumbnail.active {
 }
 .media-object {
   display: block;
+  max-block-size: 15%;
 }
 .media-object.img-thumbnail {
   max-width: none;
