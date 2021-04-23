@@ -5355,14 +5355,14 @@ a.thumbnail.active {
 .list-group-item.disabled:focus .list-group-item-text {
   color: #777777;
 }
-.list-group-item.active,
-.list-group-item.active:hover,
-.list-group-item.active:focus {
-  z-index: 2;
-  color: #fff;
-  background-color: #337ab7;
-  border-color: #337ab7;
-}
+    .list-group-item.active,
+    .list-group-item.active:hover,
+    .list-group-item.active:focus {
+        z-index: 2;
+        color: #fff;
+        background-color: #f1eee6;
+        border-color: #f1eee6;
+    }
 .list-group-item.active .list-group-item-heading,
 .list-group-item.active:hover .list-group-item-heading,
 .list-group-item.active:focus .list-group-item-heading,
