@@ -5287,8 +5287,8 @@ a.thumbnail.active {
   display: block;
 }
 .media-object.img-thumbnail {
-  max-width: 15%;
-  max-height: 15%;
+  width: 15%;
+  height: 15%;
 }
 .media-right,
 .media > .pull-right {
